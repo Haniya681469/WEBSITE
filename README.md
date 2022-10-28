@@ -1,2 +1,3 @@
 # WEBSITE
-Making a website from scratch where you can write stories
+
+Description: Make code a website using HTML and CSS. This website will be a place where people can write stories and share them with others. It will also provide writing tutorials and other features helpful for writing stories. 
